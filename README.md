@@ -20,6 +20,9 @@ This project aims to explore, clean, and visualize a structured sales dataset to
 ---
 
 ## 📁 Project Structure
-
+ 📦 sales-insights-project
+├── sales_insight.pbix # Power BI report file
+├── db_sales_insight.sql # SQL file containing the database schema and sample data
+└── README.md # Project documentation
 
 
